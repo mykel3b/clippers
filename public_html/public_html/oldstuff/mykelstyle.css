@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Faster+One);
+@import url(https://fonts.googleapis.com/css?family=Henny+Penny);
+@import url(https://fonts.googleapis.com/css?family=McLaren);
+@import url(https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here);
+@import url(https://fonts.googleapis.com/css?family=Wire+One);
+@import url(https://fonts.googleapis.com/css?family=Great+Vibes);
+body { 
+    background: linear-gradient(to right, rgba(146,221,210,1) 0%, rgba(74,191,174,1) 59%, rgba(74,191,174,1) 100%);
+    background-attachment: fixed;
+font-family: Mclaren;}
+	
+.FasterOne{
+	font-family: Faster One;
+}
+.HennyPenny{
+	font-family: Henny Penny;
+}
+.Mclaren{
+	font-family: Mclaren;
+}
+.JustMeAgainDownHere{
+	font-family: Just Me Again Down Here;
+}
+.Wireone{
+	font-family: Wire one;}
+.Greatvibes{
+	font-family: Great vibes;
+}
+a:hover { 
+    background-color: #cccccc;
+}
+a:visited { 
+    background-color: #0099CC;
+}
+a:link { 
+   background-color: #380000;
+}
+a:active { 
+    background-color: 66CCFF;
+}
+img {
+	border:1px solid #021a40;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	}
